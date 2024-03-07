@@ -15,22 +15,22 @@ class Song {
 
   static List<Song> songs =[
     Song(
+      title:'Rick roll',
+      description:'rick asley',
+      url:'assets/music/2.mp3',
+      coverUrl:'assets/images/rick.jpg',
+    ),
+    Song(
       title:'hieuthuhai',
       description:'hieuthuhai',
       url:'assets/music/1.mp4',
       coverUrl:'assets/images/1.png',
     ),
     Song(
-      title:'rick asley',
-      description:'rick asley',
-      url:'assets/music/2.mp3',
-      coverUrl:'assets/images/2.png',
-    ),
-    Song(
       title:'Sơn Tùng MTP',
       description:'Sơn Tùng MTP',
       url:'assets/music/3.mp4',
-      coverUrl:'assets/images/2.png',
+      coverUrl:'assets/images/3.png',
     ),
   ];
 }

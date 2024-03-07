@@ -1,6 +1,7 @@
-package com.example.music2
+package com.example.thuctap1
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {
+    
 }
